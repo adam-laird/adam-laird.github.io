@@ -1,23 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bfbd1e5817a1721bb9721ce5fc57898",
+    "revision": "08da07411f5e1af2e68845d84b365927",
     "url": "/index.html"
   },
   {
-    "revision": "26e5eca27a90cc0f970c",
+    "revision": "fc1d7f20f81910690b12",
+    "url": "/static/css/2.64102380.chunk.css"
+  },
+  {
+    "revision": "07cbe1d8d800021bd7cf",
     "url": "/static/css/main.ea4ea09d.chunk.css"
   },
   {
-    "revision": "ea9faac91b90146c9956",
-    "url": "/static/js/2.5d8f591f.chunk.js"
+    "revision": "fc1d7f20f81910690b12",
+    "url": "/static/js/2.5766c21b.chunk.js"
   },
   {
     "revision": "33ade7f87243ebea1c83e915f94afce3",
-    "url": "/static/js/2.5d8f591f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5766c21b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26e5eca27a90cc0f970c",
-    "url": "/static/js/main.8c9f6a86.chunk.js"
+    "revision": "07cbe1d8d800021bd7cf",
+    "url": "/static/js/main.22b48a68.chunk.js"
+  },
+  {
+    "revision": "9f5baf5e2369bb4021325fe86c05d37f",
+    "url": "/static/js/mapbox-gl-csp-worker.acb86dbb.worker.js"
   },
   {
     "revision": "ece4227a975c06513fb8",
